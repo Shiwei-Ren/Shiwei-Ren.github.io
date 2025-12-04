@@ -43,7 +43,9 @@ My research interest lies in the field of 3D Computer Vision, particularly feed-
 
 [[**Project**]](https://fastgs.github.io/)&nbsp;
 [[**Paper**]](https://arxiv.org/abs/2511.04283)&nbsp;
-[[**Code**]](https://github.com/fastgs/FastGS)
+[[**Code**]](https://github.com/fastgs/FastGS)&nbsp;
+![GitHub stars](https://img.shields.io/github/stars/fastgs/FastGS?style=social)
+
 
 </div>
 </div>
