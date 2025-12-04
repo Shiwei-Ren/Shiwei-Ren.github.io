@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a first-year Ph.D. student at [NKU](https://www.nankai.edu.cn/). I am supervised by [Yongchun Fang](https://nankai.teacher.360eol.com/teacherBasic/preview?teacherId=10244). Previously, I obtained my B.Eng. degree at [AI](https://ai.nankai.edu.cn/) of Nankai University in 2025. 
+I am currently a first-year Ph.D. student at [NKU](https://www.nankai.edu.cn/). I am supervised by Prof. [Yongchun Fang](https://nankai.teacher.360eol.com/teacherBasic/preview?teacherId=10244). Previously, I obtained my B.Eng. degree at [AI](https://ai.nankai.edu.cn/) of Nankai University in 2025. 
 
 My research interest lies in the field of 3D Computer Vision, particularly feed-forward reconstruction.
 
